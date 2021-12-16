@@ -1,4 +1,5 @@
-# IPL_Case_Study
+# IPL_Case_Study 
+  Description - Indian Premiure League or IPL, is a T20 cricket league, which was founded in 2008 and is held every year. It sees participation from both national            and international players, and eight teams representing eight Indian cities compete with each other in a double round-robin format in the league stages, which are followed by playoffs.
 # Created an interactive dashboard on Tableau that highlights some of the important statistics of IPL over the years.
 # Based on the each dataset given matches.csv and deliveries.csv files.
   a. matches.csv -
